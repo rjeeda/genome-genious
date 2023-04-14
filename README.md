@@ -1,1 +1,1 @@
-# genome-genious
+# genome-genius
